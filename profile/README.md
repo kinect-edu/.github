@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="school-logo.png" width="200" alt="Kinect Academy Logo">
+</p>
+
 # Kinect Academy Inc. 🎓
 
 Welcome to the official GitHub Organization for **Kinect Academy Inc.** This is our central hub for technical collaboration, innovation, and digital learning.
